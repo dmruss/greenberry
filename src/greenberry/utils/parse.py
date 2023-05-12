@@ -20,7 +20,7 @@ class GreenBerryParse:
     def __init__(self):
         print(self, "does not have an initialiser")
 
-    def simple_parse(g_vars, words, line):
+    def simple_parse(self, g_vars, words, line):
         """
         parses simple statements
 
